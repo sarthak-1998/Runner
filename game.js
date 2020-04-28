@@ -82,7 +82,7 @@ class preloadGame extends Phaser.Scene{
         });
 
         // the coin is a sprite sheet made by 20x20 pixels
-        this.load.spritesheet("coin", "coin.png", {
+        this.load.spritesheet("coin", "ques.png", {
             frameWidth: 20,
             frameHeight: 20
         });
